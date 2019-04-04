@@ -1,0 +1,10 @@
+ADD_CHILD Flora Minerva Female
+GET_RELATIONSHIP Remus Maternal-Aunt
+GET_RELATIONSHIP Minerva Siblings
+GET_RELATIONSHIP Luna Maternal-Aunt
+ADD_CHILD Ted Bella Female
+GET_RELATIONSHIP Remus Siblings
+GET_RELATIONSHIP Lily Sister-In-Law
+ADD_CHILD Ginerva John Male
+GET_RELATIONSHIP Ginny Paternal-Uncle
+GET_RELATIONSHIP Darcy Brother-In-Law
